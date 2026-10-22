@@ -9,4 +9,4 @@ daily problem-solving practice to build logic and Python fundamentals.
 |---|---|---|
 | Python | fundamentals, logic | in progress |
 
-My profile: https://exercism.org/profiles/<your-exercism-username>
+My profile: https://exercism.org/profiles/nevil-codes
